@@ -4,5 +4,5 @@ This repository contains the code and data for the paper: https://arxiv.org/abs/
 **Authors:** Oren Sultan(1,2), Alex Khasin(2), Guy Shiran(2), Asnat Greenstein-Messica(2), Dafna Shahaf(1) <br>
 **Affiliations:** (1) The Hebrew University of Jerusalem, (2) Lightricks <br>
 **Conference:** The Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) <br>
-<br>
+**Project Website:** https://www.orensultan.com/ai_recolor.github.io/ <br>
 **The code is coming soon.**
