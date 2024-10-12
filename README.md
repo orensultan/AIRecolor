@@ -5,4 +5,4 @@ This repository contains the code and data for the paper: https://arxiv.org/abs/
 **Affiliations:** (1) The Hebrew University of Jerusalem, (2) Lightricks <br>
 **Conference:** The Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) <br>
 <br>
-** The code is coming soon. **
+**The code is coming soon.**
